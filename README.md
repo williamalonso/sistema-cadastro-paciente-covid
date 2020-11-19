@@ -39,6 +39,8 @@ Para rodar o código no VSCode, dê uma olhada neste [tutorial](https://medium.c
 ## Imagem do Projeto
 
 Para mais imagens, acesse a pasta
-> public/img
+> _imagem
+
+Menu principal:
 
 ![](_imagem/menu_principal.png)
