@@ -29,6 +29,7 @@ Ao finalizar, o sistema salva um arquivo texto na respectiva pasta.
 Para instalar, basta baixar ou clonar o projeto e abrir o arquivo "PIM4.c" no CodeBlocks ou no VSCode, por exemplo.
 
 Para baixar o CodeBlocks [clique aqui](http://www.codeblocks.org/downloads)
+
 Você também vai precisar baixar o compilador [MinGW](https://osdn.net/projects/mingw/releases/)
 
 Caso precise de ajuda para instalar o compilador, assista este [vídeo](https://www.youtube.com/watch?v=bEs-5IU_l9w&ab_channel=RodrigoRochaGomeseSouza)
