@@ -37,4 +37,8 @@ Caso precise de ajuda para instalar o compilador, assista este [vídeo](https://
 Para rodar o código no VSCode, dê uma olhada neste [tutorial](https://medium.com/@juniortrojilio/preparando-o-vs-code-para-compilar-c-c-no-windows-988f4a91a557)
 
 ## Imagem do Projeto
+
+Para mais imagens, acesse a pasta
+> public/img
+
 ![](_imagem/menu_principal.png)
